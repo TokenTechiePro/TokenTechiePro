@@ -60,7 +60,7 @@ class About extends Me {
     "Editors": new Set([ "VSCode", "Xcode", "Sublime", "Neovim", "Visual Studio" ]),  
     "Platforms": new Set([ "Mac", "GNU/Linux", "Windows", "AWS", "Microsoft Azure" ]),  
     "OtherTools": new Set([ "Git", "Figma", "Photoshop", "Gimp", "Lightroom", "Docker", "Kubernetes", "Helm", "Jenkins", "Datadog", "Splunk", "Jira", "Continuous Integration", "Agile", "Scrum" ]),  
-    "Frameworks": new Set([ ".NET Core", "ASP.NET", "Angular", "MUI", "Nest.js", "Node.js", "React", "Next.js", "gRPC", "GraphQL", "Web3", "Solana", "Microservices", "RESTful APIs", "SOAP Services", "AWS Lambda", "CI/CD", "JWT", "SAML" ])  
+    "Frameworks": new Set([ ".NET Core", "ASP.NET", "Angular", "Nest.js", "React", "Next.js", "Web3", "Solana", "Microservices", "RESTful APIs"])  
   };  
 }  
 ```
