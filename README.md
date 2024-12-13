@@ -62,13 +62,12 @@ class About extends Me {
   };
 }
 ```
-&nbsp;&nbsp;
 - <img alt="GIF" src="https://github.com/venuswhispers/venuswhispers/blob/main/images/Developer.gif" width="25" />   Building an **Innovative Web App** with **React**, **Next.js**, and **.NET Core** for optimal performance. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 - <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/hyperkitty.gif?raw=true" width="20" />    Exploring **GNU/Linux** to refine my coding skills.
 - <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **Next.js**, **React**, **.NET**, **Rust**, or **C#**.
 - <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/letterbox.gif?raw=true" width="25" />   Connect on Telegram: **[CodeTitan](https://t.me/ProScriptSlinger4)**.
 <div align="center" >
-&nbsp;&nbsp;&nbsp;&nbsp;
+<hr></hr>
 <a  href="https://github.com/TokenTechiePro">
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
   <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
