@@ -115,7 +115,7 @@ class About extends Me {
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>.Net
+      <br>Express
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
@@ -182,8 +182,8 @@ class About extends Me {
       <br>Flutter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NetCore" />
+      <br>.NetCore
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
