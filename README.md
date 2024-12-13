@@ -50,76 +50,15 @@
 
 ```dart
 // tools_I_use organized
-
 class About extends Me {
   const myTools = {
-    "ProgrammingLanguages": new Set([
-      "TypeScript", 
-      "Go", 
-      "Python", 
-      "Rust", 
-      "Java", 
-      "Ruby", 
-      "C#", 
-      "JavaScript"
-    ]),
-    "OtherLanguages": new Set([
-      "HTML", 
-      "CSS", 
-      "Bash", 
-      "JSON", 
-      "Markdown"
-    ]),
-    "Database": new Set([
-      "MongoDB", 
-      "SQLite", 
-      "Redis", 
-      "PostgreSQL", 
-      "MySQL"
-    ]),
-    "Editors": new Set([
-      "VSCode", 
-      "Xcode", 
-      "Sublime", 
-      "Neovim", 
-      "Visual Studio"
-    ]),
-    "Platforms": new Set([
-      "Mac", 
-      "GNU/Linux", 
-      "Windows", 
-      "AWS", 
-      "Microsoft Azure"
-    ]),
-    "OtherTools": new Set([
-      "Git", 
-      "Docker", 
-      "Kubernetes", 
-      "Helm", 
-      "Jenkins", 
-      "Datadog", 
-      "Splunk", 
-      "Jira", 
-      "Terraform",
-      "Continuous Integration", 
-      "Agile", 
-      "Scrum"
-    ]),
-    "Frameworks": new Set([
-      ".NET Core", 
-      "ASP.NET", 
-      "Angular", 
-      "Nest.js", 
-      "React", 
-      "Next.js", 
-      "Web3", 
-      "Solana", 
-      "Microservices", 
-      "RESTful APIs",
-      "Express.js", 
-      "Django", 
-      "Ruby on Rails"
-    ])
+    "ProgrammingLanguages": new Set(["TypeScript", "Go", "Python", "Rust", "Java", "Ruby", "C#", "JavaScript"]),
+    "OtherLanguages": new Set(["HTML", "CSS", "Bash", "JSON", "Markdown"]),
+    "Database": new Set(["MongoDB", "SQLite", "Redis", "PostgreSQL", "MySQL"]),
+    "Editors": new Set(["VSCode", "Xcode", "Sublime", "Neovim", "Visual Studio"]),
+    "Platforms": new Set(["Mac", "GNU/Linux", "Windows", "AWS", "Microsoft Azure"]),
+    "OtherTools": new Set(["Git", "Docker", "Kubernetes", "Helm", "Jenkins", "Datadog", "Splunk", "Jira", "Terraform", "Continuous Integration", "Agile", "Scrum"]),
+    "Frameworks": new Set([".NET Core", "ASP.NET", "Angular", "Nest.js", "React", "Next.js", "Web3", "Solana", "Microservices", "RESTful APIs", "Express.js", "Django", "Ruby on Rails"])
   };
 }
 ```
