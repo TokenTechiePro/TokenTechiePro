@@ -182,7 +182,7 @@ class About extends Me {
       <br>Flutter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt=".NetCore" />
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="dotnet" />
       <br>.NetCore
     </td>
     <td align="center" width="90">
