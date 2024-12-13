@@ -225,24 +225,24 @@ class About extends Me {
 
 <p align="center">
   <a href="https://github.com/venuswhispers?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=venuswhispers&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=TokenTechiePro&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@TokenTechiePro's github-readme-stats"/>
   </a>
   <a href="https://github.com/venuswhispers?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=venuswhispers&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=TokenTechiePro&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@TokenTechiePro's github-readme-streak-stats"/>
   </a>
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@venuswhispers">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=venuswhispers&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=TokenTechiePro&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venuswhispers&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/venuswhispers?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=venuswhispers&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokenTechiePro&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/TokenTechiePro?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=TokenTechiePro&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@TokenTechiePro's trophy stats"/>
   </a>
 </div>
 
