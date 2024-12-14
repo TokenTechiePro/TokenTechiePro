@@ -57,8 +57,10 @@ class About extends Me {
     "Database": new Set(["MongoDB", "SQLite", "Redis", "PostgreSQL", "MySQL"]),
     "Editors": new Set(["VSCode", "Xcode", "Sublime", "Neovim", "Visual Studio"]),
     "Platforms": new Set(["Mac", "GNU/Linux", "Windows", "AWS", "Microsoft Azure"]),
-    "OtherTools": new Set(["Git", "Docker", "Kubernetes", "Helm", "Jenkins", "Datadog", "Splunk", "Jira", "Terraform", "Continuous Integration", "Agile", "Scrum"]),
-    "Frameworks": new Set([".NET Core", "ASP.NET", "Angular", "Nest.js", "React", "Next.js", "Web3", "Solana", "Microservices", "RESTful APIs", "Express.js", "Django", "Ruby on Rails"])
+    "OtherTools": new Set(["Git", "Docker", "Kubernetes", "Helm", "Jenkins", "Datadog",
+                  "Splunk", "Jira", "Terraform", "Continuous Integration", "Agile", "Scrum"]),
+    "Frameworks": new Set([".NET Core", "ASP.NET", "Angular", "Nest.js", "React", "Next.js", "Web3",
+                  "Solana", "Microservices", "RESTful APIs", "Express.js", "Django", "Ruby on Rails"])
   };
 }
 ```
